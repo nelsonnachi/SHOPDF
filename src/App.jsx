@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import Category from "./pages/Category";
 import Search from "./components/Search";
 import Shop from "./pages/Shop";
-import SingleProduct from "./components/singleProduct";
+import SingleProduct from "./components/SingleProduct";
 import Login from "./components/Login";
 import AuthForm from "./components/AuthForm";
 
