@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering the Art of Capsule Wardrobes",
+    "subtitle": "Timeless Elegance",
+    "date": "12th August 2022",
+    "excerpt": "Learn how to build a versatile wardrobe with fewer, high-quality pieces that never go out of style.",
+    "content": "A capsule wardrobe is a curated collection of essential items...",
+    "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Unveiling the Hottest Beachwear Trends",
+    "subtitle": "Summer Breeze",
+    "date": "18th January 2023",
+    "excerpt": "From bold cut-outs to sustainable fabrics, discover what's making waves on the coast this season.",
+    "content": "Summer is here and the beach is calling. This year, we see a shift...",
+    "imageUrl": "https://images.unsplash.com/photo-1700159017572-de76bb0c5719?q=80&w=2072&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Navigating the World of Women's Tailoring",
+    "subtitle": "Power Dressing",
+    "date": "5th January 2025",
+    "excerpt": "Explore the shift from traditional office wear to modern, empowering silhouettes for the modern woman.",
+    "content": "Tailoring has always been a symbol of authority and precision...",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1682142715511-27bfbfdc044f?q=80&w=2069&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "The World's Best Fashion Fair 2025",
+    "subtitle": "New York Times",
+    "date": "25th May 2025",
+    "excerpt": "A deep dive into the highlights and avant-garde designs seen at this year's premier New York event.",
+    "content": "The 2025 Fashion Fair was nothing short of spectacular, featuring...",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1713720663924-4e3fe8f20f79?q=80&w=1948&auto=format&fit=crop"
+  }
+]
